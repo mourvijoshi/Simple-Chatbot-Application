@@ -4,7 +4,6 @@
 
 Welcome to **MY BUDDY** – your friendly neighborhood chatbot! Ever wanted a buddy who’s always available, won’t judge, and loves to chat? Meet MY BUDDY! 💬
 
-![MY BUDDY Demo](images/chatbot_demo.png)
 
 ## Table of Contents
 
